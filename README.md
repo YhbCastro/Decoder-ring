@@ -1,9 +1,11 @@
 # Decoder-ring
 
 This project is designed to test your ability to build complex algorithms as well as write unit tests with Mocha & Chai to test your algorithms. Before taking on this module, you should be comfortable with the learning objectives listed below. You will not need to make any edits to HTML or CSS for this project.
+
 Caesar Shift
 
-caesar.png
+![image](https://user-images.githubusercontent.com/85961954/154578006-1883a72d-2cf7-4b71-bcea-3a9383b6235c.png)
+
 
 The Caesar Shift is a type of substitution cipher originally used by Julius Caesar to protect messages of military significance. It relies on taking the alphabet and "shifting" letters to the right or left, based on the typical alphabetic order.
 
@@ -28,7 +30,7 @@ When decoding the message, each pair of numbers is translated using the coordina
 
 Substitution Cipher
 
-Substitution cipher photo here
+![image](https://user-images.githubusercontent.com/85961954/154578066-a623a43f-e847-4c9d-bd6f-b33dd04f2930.png)
 
 The Substitution Cipher requires a standard alphabet and a substitution alphabet. Letters from the standard alphabet will be transposed to the standard alphabet. This cipher requires that the recipient have the substitution alphabet; otherwise, it will be difficult for them to decode the message.
 
